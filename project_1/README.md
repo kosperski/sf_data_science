@@ -45,5 +45,6 @@
 ### Ссылки:  
 1. [Датасет HeadHunter](https://drive.google.com/file/d/1ZtcdPfV4tHn2mV0adivbmMPUBHatUI7c/view?usp=sharing)
 2. [Курсы валют](https://drive.google.com/file/d/14Nfz6chd7Jnja771taVXD1SKBOABdijz/view?usp=sharing)
+3. [Графики](https://github.com/kosperski/sf_data_science/tree/main/project_1/plots)
 
 :arrow_up:[к оглавлению](https://github.com/kosperski/sf_data_science/blob/main/project_1/README.md#Оглавление)
