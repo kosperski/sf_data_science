@@ -43,6 +43,7 @@
 [Ноутбук с выполненными заданиями и выводами](https://github.com/kosperski/sf_data_science/blob/main/project_1/Project%201.ipynb)
 
 ### Ссылки:  
-[Датасет HeadHunter](https://drive.google.com/file/d/1ZtcdPfV4tHn2mV0adivbmMPUBHatUI7c/view?usp=sharing)
-[Курсы валют](https://drive.google.com/file/d/14Nfz6chd7Jnja771taVXD1SKBOABdijz/view?usp=sharing)
+1. [Датасет HeadHunter](https://drive.google.com/file/d/1ZtcdPfV4tHn2mV0adivbmMPUBHatUI7c/view?usp=sharing)
+2. [Курсы валют](https://drive.google.com/file/d/14Nfz6chd7Jnja771taVXD1SKBOABdijz/view?usp=sharing)
+
 :arrow_up:[к оглавлению](https://github.com/kosperski/sf_data_science/blob/main/project_1/README.md#Оглавление)
