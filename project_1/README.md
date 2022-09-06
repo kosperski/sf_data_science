@@ -4,7 +4,7 @@
 [1. Описание проекта](https://github.com/kosperski/sf_data_science/blob/main/project_1/README.md#Описание-проекта)  
 [2. Какой кейс решаем?](https://github.com/kosperski/sf_data_science/blob/main/project_1/README.md#Какой-кейс-решаем)  
 [3. Результаты](https://github.com/kosperski/sf_data_science/blob/main/project_1/README.md#Результаты)    
-[4. Ссылки на используемые данные](https://github.com/kosperski/sf_data_science/blob/main/project_1/README.md#Ссылки на используемые данные)  
+[4. Ссылки](https://github.com/kosperski/sf_data_science/blob/main/project_1/README.md#Ссылки)  
 
 
 ### Описание проекта    
@@ -42,7 +42,7 @@
 ### Результаты:  
 [Ноутбук с выполненными заданиями и выводами](https://github.com/kosperski/sf_data_science/blob/main/project_1/Project%201.ipynb)
 
-### Ссылки на используемые данные:  
+### Ссылки:  
 [Датасет HeadHunter](https://drive.google.com/file/d/1ZtcdPfV4tHn2mV0adivbmMPUBHatUI7c/view?usp=sharing)
 [Курсы валют](https://drive.google.com/file/d/14Nfz6chd7Jnja771taVXD1SKBOABdijz/view?usp=sharing)
 :arrow_up:[к оглавлению](https://github.com/kosperski/sf_data_science/blob/main/project_1/README.md#Оглавление)
